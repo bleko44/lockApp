@@ -13,4 +13,9 @@
    "password": "$2y$12$H.cT5SzgyFBWNQJmBcESpueT3fL74IWPkbIml/.LbIuGwYej/XbkO",
    "devices": ["M2003J15SC9A49A6F79D6B6F34"],
    "expiry": "30-10-2025 12:59 AM"
+},
+   "khuatez1": {
+   "password": "$2y$12$tTcYPSNyzCw4em/szadIZ.7bPQNHTQJkTEcdha7P8GnDI97SE8Bam",
+   "devices": ["M2003J15SC9A49A6F79D6B6F34"],
+   "expiry": "30-10-2025 12:59 AM"
 }
