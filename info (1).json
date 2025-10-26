@@ -1,5 +1,9 @@
 {
-"test1234": {
+"tkstest123": {
+   "password": "$2y$12$EZOvCFwjz.jeiCLYGHflT.FYCk5sWXUb1hrTq5Hc73fjfVDv/zOFe",
+   "devices": ["SM-S938BD7AEFCB51E66E826"],
+   "expiry": "28-10-2025 12:00 PM"
+},"test1234": {
    "password": "$2y$12$piQVocTez3Xt1otbO7XyNu0.I./0iDlvkMDziO19/9UK5PFgzULMa",
    "devices": ["REDMINOTE9PR6A"],
    "expiry": "31-10-2025 12:00 PM"
