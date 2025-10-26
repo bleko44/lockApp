@@ -8,4 +8,9 @@
    "password": "$2y$12$jJVU7qQnlDSUZmAVvCqIteqKjyiRXhIz4RXiqtKelWfOil5pYVe76",
    "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
    "expiry": "31-10-2025 12:59 AM"
+}, 
+"tkstest123": {
+   "password": "$2y$12$EZOvCFwjz.jeiCLYGHflT.FYCk5sWXUb1hrTq5Hc73fjfVDv/zOFe",
+   "devices": ["SM-S938BD7AEFCB51E66E826"],
+   "expiry": "28-10-2025 12:00 PM"
 }
