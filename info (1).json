@@ -4,19 +4,9 @@
    "devices": ["REDMINOTE9PR6A"],
    "expiry": "31-10-2025 12:00 PM"
 },
-   "test5678": {
-   "password": "$2y$12$jJVU7qQnlDSUZmAVvCqIteqKjyiRXhIz4RXiqtKelWfOil5pYVe76",
-   "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
-   "expiry": "31-10-2025 12:59 AM"
-},
-   "khuatez123": {
-   "password": "$2y$12$CJeDlle8pO.2SObXaU/LZ.Cim1OxanSWq8b31CRYXFWiuxnVkdYu.",
-   "devices": ["M2003J15SC9A49A6F79D6B6F34"],
-   "expiry": "28-10-2025 12:00 PM"
-},
    "test1212": {
-   "password": "$2y$12$cY6RfZ2ap0KNOBjLHm39VOB4IrpZCg4AuCPfrfTsaxH3bgQmHfX.G",
-   "devices": ["SM-S938BD7AEFCB51E66E826","M2003J15SC9A49A6F79D6B6F34"],
+   "password": "$2y$12$1OkIi5qtPrdLSsdU0mLb4uHnXNd3BiiVbSaNOZDuHLr0/vqjW.D.S",
+   "devices": ["SM-S938BD7AEFCB51E66E826"],
    "expiry": "28-10-2025 12:00 PM"
 },
 }
